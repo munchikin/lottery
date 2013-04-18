@@ -1,0 +1,9 @@
+F:\2013\04_추첨\ppobkki\ppobkki\bin\Debug\ppobkki.exe.config
+F:\2013\04_추첨\ppobkki\ppobkki\bin\Debug\ppobkki.exe
+F:\2013\04_추첨\ppobkki\ppobkki\bin\Debug\ppobkki.pdb
+F:\2013\04_추첨\ppobkki\ppobkki\obj\Debug\ResolveAssemblyReference.cache
+F:\2013\04_추첨\ppobkki\ppobkki\obj\Debug\ppobkki.Mainform.resources
+F:\2013\04_추첨\ppobkki\ppobkki\obj\Debug\ppobkki.Properties.Resources.resources
+F:\2013\04_추첨\ppobkki\ppobkki\obj\Debug\ppobkki.csproj.GenerateResource.Cache
+F:\2013\04_추첨\ppobkki\ppobkki\obj\Debug\ppobkki.exe
+F:\2013\04_추첨\ppobkki\ppobkki\obj\Debug\ppobkki.pdb
